@@ -1,0 +1,1 @@
+C:\Users\S6V2OPH\RustroverProjects\snake\target\wasm32-unknown-unknown\release\libsnake.rlib: C:\Users\S6V2OPH\RustroverProjects\snake\src\canvas.rs C:\Users\S6V2OPH\RustroverProjects\snake\src\direction.rs C:\Users\S6V2OPH\RustroverProjects\snake\src\lib.rs C:\Users\S6V2OPH\RustroverProjects\snake\src\snake.rs

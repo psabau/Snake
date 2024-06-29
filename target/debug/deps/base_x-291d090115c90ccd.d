@@ -1,0 +1,11 @@
+C:\Users\S6V2OPH\RustroverProjects\snake\target\debug\deps\libbase_x-291d090115c90ccd.rmeta: C:\Users\S6V2OPH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base-x-0.2.11\src\lib.rs C:\Users\S6V2OPH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base-x-0.2.11\src\alphabet.rs C:\Users\S6V2OPH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base-x-0.2.11\src\bigint.rs C:\Users\S6V2OPH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base-x-0.2.11\src\decoder.rs C:\Users\S6V2OPH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base-x-0.2.11\src\encoder.rs
+
+C:\Users\S6V2OPH\RustroverProjects\snake\target\debug\deps\libbase_x-291d090115c90ccd.rlib: C:\Users\S6V2OPH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base-x-0.2.11\src\lib.rs C:\Users\S6V2OPH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base-x-0.2.11\src\alphabet.rs C:\Users\S6V2OPH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base-x-0.2.11\src\bigint.rs C:\Users\S6V2OPH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base-x-0.2.11\src\decoder.rs C:\Users\S6V2OPH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base-x-0.2.11\src\encoder.rs
+
+C:\Users\S6V2OPH\RustroverProjects\snake\target\debug\deps\base_x-291d090115c90ccd.d: C:\Users\S6V2OPH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base-x-0.2.11\src\lib.rs C:\Users\S6V2OPH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base-x-0.2.11\src\alphabet.rs C:\Users\S6V2OPH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base-x-0.2.11\src\bigint.rs C:\Users\S6V2OPH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base-x-0.2.11\src\decoder.rs C:\Users\S6V2OPH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base-x-0.2.11\src\encoder.rs
+
+C:\Users\S6V2OPH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base-x-0.2.11\src\lib.rs:
+C:\Users\S6V2OPH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base-x-0.2.11\src\alphabet.rs:
+C:\Users\S6V2OPH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base-x-0.2.11\src\bigint.rs:
+C:\Users\S6V2OPH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base-x-0.2.11\src\decoder.rs:
+C:\Users\S6V2OPH\.cargo\registry\src\index.crates.io-6f17d22bba15001f\base-x-0.2.11\src\encoder.rs:
